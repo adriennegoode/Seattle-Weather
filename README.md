@@ -3,10 +3,10 @@ Creating data science methodology to investigate whether it rains more in Seattl
 
 
 DATA Preperation
-Contents:
-- Uploading data
+
+- Data upload
 - Observation of contents of SEA and STL weather datafiles
-- Conversion of datetime to be consistant in both datafiles
+- Conversion of datetime to be consistant in both (SEA and STL datafiles)
 - Confirmation that data will answer question!
 - Located missing data
 - Aligning data to same start date in 2018
